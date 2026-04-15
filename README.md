@@ -29,9 +29,13 @@ O script é **idempotente** — pode ser executado várias vezes sem duplicar in
 ## Estrutura do Projeto
 
 Cisco-Secure-Client-Umbrella-GPO/
+
 ├── Install-CiscoSecureClient.ps1     ← Script principal
+
 ├── csc-deploy-full-Default-CSA.exe   ← Instalador (não versionar no Git)
+
 ├── README.md
+
 └── (opcional) log de execução
 
 ## Pré-requisitos
